@@ -1,0 +1,2 @@
+# comfrtable_keeper_spec
+エアコン自動温度制御システムの仕様書
